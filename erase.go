@@ -120,7 +120,7 @@ func logFatal(err error) {
 func readConfig() (Configuration, error) {
 	// пробуем открыть файл конфига
 	file, err := os.Open("conf.json")
-  logFatal(err)
+        logFatal(err)
 
 	var config Configuration
 
