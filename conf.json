@@ -1,0 +1,5 @@
+{
+    "rootFolder": "D:/Test",
+    "excludeFolders": ["D:/Test/One","D:/Test/Two"],
+    "debug": false
+}
